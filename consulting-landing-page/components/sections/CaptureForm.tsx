@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { Button } from "../ui/Button";
 import { Heading, Text } from "../ui/Typography";
-import { Input } from "../ui/Input"; // We might need to create this if it doesn't exist
 import { ArrowRight, Lock } from "lucide-react";
 import { FadeIn } from "../ui/FadeIn";
 
